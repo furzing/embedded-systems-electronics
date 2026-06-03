@@ -1,0 +1,19 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\Zain\Downloads\Electro project\ckt.net
+Start Time: Wed Jun  3 03:22:01 2026
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Total elapsed time: 0.153 seconds.
+
+Files loaded:
+C:\Users\Zain\Downloads\Electro project\ckt.net
+C:\Users\Zain\AppData\Local\LTspice\lib\cmp\standard.mos
+C:\Users\Zain\Downloads\Electro project\tsmc018.lib
+

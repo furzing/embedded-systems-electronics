@@ -1,0 +1,29 @@
+Version 4
+SymbolType CELL
+LINE Normal 48 80 48 96
+LINE Normal 8 16 8 80
+LINE Normal 48 16 16 16
+LINE Normal 48 0 48 16
+LINE Normal 16 88 16 8
+LINE Normal 0 48 8 48
+LINE Normal 32 72 48 80
+LINE Normal 32 89 32 72
+LINE Normal 48 80 32 89
+LINE Normal 16 80 32 80
+WINDOW 0 56 32 Left 0
+WINDOW 3 56 72 Left 0
+SYMATTR Value NMOS
+SYMATTR Prefix MN
+SYMATTR Description 4-Terminal NMOS transistor Created: P Armstronng
+PIN 48 0 NONE 0
+PINATTR PinName D
+PINATTR SpiceOrder 1
+PIN 0 48 NONE 0
+PINATTR PinName G
+PINATTR SpiceOrder 2
+PIN 48 96 NONE 0
+PINATTR PinName S
+PINATTR SpiceOrder 3
+PIN 48 96 NONE 0
+PINATTR PinName B
+PINATTR SpiceOrder 4
